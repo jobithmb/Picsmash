@@ -3,7 +3,7 @@
 "Picsmash" can make your day brighter, craft a smile on your face, or even lift you up a little.
 It contains the best quotes, poems, poetry about life to inspire you.
 
-# Features
+### Features
 - Many categories to choose from
 - Save to your gallery
 - Share directly
@@ -20,4 +20,4 @@ Please rate the app and send your feedback, which is really important and helpfu
 Our collection of picsmashes comprises of images from various online resources. Love us as you love them, too.
 We just made your lives a bit easier.
 
-Happy Picsmashing!!
+>Happy Picsmashing!!
