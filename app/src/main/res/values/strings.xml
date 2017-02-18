@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Picsmash</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_search">Search</string>
+    <string name="action_share">Share</string>
+    <string name="action_about">About</string>
+    <string name="action_clear">Clear Cache</string>
+    <string name="action_help">Help</string>
+    <string name="about_dscription">Picsmash your friends when words are just not enough to express! \n\n "Picsmash" can make your day brighter, craft a smile on your face, or even lift you up a little.It contains the best quotes, poems, poetry about life to inspire you. \n \n
+Picsmash is embedded with powerful nuggets of wisdom condensed into one or two lines. The Picsmash provides you with a brief daily moment to reflect, or in times of adversity, inspiration to persevere. These are carefully selected quotes that can resonate hope and happiness in your life. \n\nOur collection of picsmashes comprises of images from various online resources. Love us as you love them, too.
+We just made your lives a bit easier.</string>
+
+    <string name="ad_unit_id">ca-app-pub-8677264540224431/8261983503</string>
+    <string name="ad_unit_id_preview">ca-app-pub-8677264540224431/6184331105</string>
+    <string name="ad_unit_id_pixie">ca-app-pub-8677264540224431/1974457509</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string-array name="tabs">
+        <item>Life</item>
+        <item>Logical</item>
+        <item>Did you Know ?</item>
+        <item>Special</item>
+        <item>Minion</item>
+        <item>Memes</item>
+        <item>Malayalam Memes</item>
+    </string-array>
+</resources>

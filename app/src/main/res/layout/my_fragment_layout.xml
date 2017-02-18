@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/position"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:text="This is Page 1."
+    android:textColor="@color/primary_text"
+    android:textSize="20sp" />
+    <!--android:background="@color/primary_light"-->
+
